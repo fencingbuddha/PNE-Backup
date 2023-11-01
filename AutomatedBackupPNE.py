@@ -1,7 +1,7 @@
 # Author: Cameron Beebe
 # Date: 8/11/23
 # Purpose: Backup the default.pdb file that houses our Printnet database. 
-# Comments: I did not include the funcionality to delete files after a certian number is reached because I did not want to erase anything we may need in the futuer. 
+# Comments: I did not include the funcionality to delete files after a certian number is reached because I did not want to erase anything we may need in the future. 
 
 
 
